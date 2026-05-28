@@ -1,0 +1,239 @@
+dogadjaj_id,predmet,tip,nastavnik,smjerovi,ciklus,semestar,godina,grupa,broj_studenata,ucionica_id,dan,pocetak,kraj,trajanje_sati
+D0091,Linearna algebra,AV,Aleksandar Balašev-Samarski,Kompjuterske nauke,Bachelor,2,I godina,G1,105,ABG,PONEDJELJAK,08:00,10:00,2
+D0230,Uvod u matematiku,P,Dženan Gušić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,UTORAK,08:00,11:00,3
+D0174,Programiranje II,P,Adis Alihodžić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Primijenjena matematika,Bachelor,2,I godina,G1,130,ABG,SRIJEDA,08:00,11:00,3
+D0092,Linearna algebra,P,Amil Pečenković,Kompjuterske nauke,Bachelor,2,I godina,G1,105,ABG,PETAK,08:00,11:00,3
+D0186,Statistika I,LV,Aleksandar Balašev-Samarski,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,67,VRC,PONEDJELJAK,10:00,13:00,3
+D0229,Uvod u matematiku,AV,Daniela Zubović,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,UTORAK,11:00,13:00,2
+D0167,Programiranje I,AV,Adisa Bolić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,UTORAK,13:00,15:00,2
+D0014,Analiza I,AV,Džana Drino,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,PONEDJELJAK,10:00,12:00,2
+D0016,Analiza I,P,Dženan Gušić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,CETVRTAK,09:00,11:00,2
+D0170,Programiranje I,P,Elmedin Selmanović,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,PONEDJELJAK,12:00,14:00,2
+D0020,Analiza II,P,Nacima Memić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,150,ABG,UTORAK,15:00,17:00,2
+D0019,Analiza II,P,Nacima Memić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,150,ABG,PETAK,11:00,13:00,2
+D0047,Elementarna matematika,AV,Džana Drino,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,UTORAK,17:00,19:00,2
+D0012,Analitička geometrija,P,Almasa Odžak,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,150,ABG,CETVRTAK,11:00,13:00,2
+D0050,Elementarna teorija brojeva,P,Almasa Odžak,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,150,ABG,PONEDJELJAK,14:00,16:00,2
+D0018,Analiza II,AV,Mirza Čvorak,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,150,ABG,SRIJEDA,11:00,13:00,2
+D0013,Analiza I,AV,Džana Drino,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,CETVRTAK,14:00,16:00,2
+D0011,Analitička geometrija,AV,Ines Alagić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,150,ABG,PETAK,13:00,15:00,2
+D0049,Elementarna teorija brojeva,AV,Medina Zubača,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,150,ABG,CETVRTAK,16:00,18:00,2
+D0017,Analiza II,AV,Mirza Čvorak,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,150,ABG,PETAK,15:00,17:00,2
+D0048,Elementarna matematika,P,Dina Kamber Hamzić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,PONEDJELJAK,16:00,18:00,2
+D0015,Analiza I,P,Dženan Gušić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,150,ABG,SRIJEDA,13:00,15:00,2
+D0171,Programiranje II,AV,Adisa Bolić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Primijenjena matematika,Bachelor,2,I godina,G1,130,ABG,PETAK,17:00,19:00,2
+D0141,Numerička matematika,LV,Aleksandar Balašev-Samarski,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,67,VRC,PONEDJELJAK,13:00,15:00,2
+D0172,Programiranje II,LV,Adisa Bolić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Primijenjena matematika,Bachelor,2,I godina,G1,65,VRC,UTORAK,08:00,10:00,2
+D0173,Programiranje II,LV,Adisa Bolić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Primijenjena matematika,Bachelor,2,I godina,G2,65,VRC,UTORAK,10:00,12:00,2
+D0181,Računarske mreže,LV,Kadušić Esada,Kompjuterske nauke | Nastavnički smjer (matematika i informatika),Bachelor,4,II godina,G1,47,VRC,CETVRTAK,08:00,10:00,2
+D0037,Diferencijalne jednadžbe,P,Senada Kalabušić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,67,VRC,CETVRTAK,10:00,13:00,3
+D0168,Programiranje I,LV,Adisa Bolić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,75,VRC,SRIJEDA,08:00,10:00,2
+D0169,Programiranje I,LV,Adisa Bolić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G2,75,VRC,CETVRTAK,16:00,18:00,2
+D0216,Teorija vjerovatnoće,P,Fikret Čunjalo,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,67,VRC,PONEDJELJAK,08:00,10:00,2
+D0187,Statistika I,P,Fikret Čunjalo,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,67,VRC,CETVRTAK,14:00,16:00,2
+D0215,Teorija vjerovatnoće,AV,Adisa Bolić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,67,VRC,UTORAK,15:00,17:00,2
+D0036,Diferencijalne jednadžbe,AV,Emin Bešo,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,67,VRC,UTORAK,12:00,14:00,2
+D0142,Numerička matematika,P,Medina Zubača,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,67,VRC,PONEDJELJAK,15:00,17:00,2
+D0153,Operativni sistemi,LV,Samir Ribić,Kompjuterske nauke,Bachelor,4,II godina,G1,40,RC,PONEDJELJAK,08:00,10:00,2
+D0193,Strukture podataka i algoritmi,LV,Admir Beširević,Kompjuterske nauke,Bachelor,3,II godina,G1,40,RC,PONEDJELJAK,11:00,13:00,2
+D0052,Engleski jezik,P,Nadira Aljović,Kompjuterske nauke | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,60,419,SRIJEDA,08:00,10:00,2
+D0051,Engleski jezik,AV,Nadira Aljović,Kompjuterske nauke | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,60,419,CETVRTAK,12:00,14:00,2
+D0074,Kombinatorika,P,Amela Muratović-Ribić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,58,419,SRIJEDA,10:00,12:00,2
+D0073,Kombinatorika,AV,Adisa Bolić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,58,419,PETAK,08:00,10:00,2
+D0042,Dinamički web sistemi,LV,Skopljaković Selma,Kompjuterske nauke | Nastavnički smjer (matematika i informatika),Bachelor,6,III godina,G1,26,441,PETAK,08:00,10:00,2
+D0235,Web programiranje,LV,Skopljaković Selma,Kompjuterske nauke | Nastavnički smjer (matematika i informatika),Bachelor,5,III godina,G1,26,441,CETVRTAK,08:00,10:00,2
+D0099,Mašinsko učenje,LV,Adisa Bolić,Kompjuterske nauke | Primijenjena matematika,Bachelor,6,III godina,G1,25,RC,CETVRTAK,08:00,10:00,2
+D0119,Metodička praksa iz matematike u srednjoj školi II,LV,Daniela Zubović,Nastavnički smjer (matematika),Master,2,I godina,G1,11,426,CETVRTAK,08:00,11:00,3
+D0113,Metodička praksa iz informatike u srednjoj školi,LV,Daniela Zubović,Nastavnički smjer (matematika i informatika),Master,2,I godina,G1,8,426,PONEDJELJAK,08:00,11:00,3
+D0182,Računarske mreže,P,Esmir Pilav,Kompjuterske nauke | Nastavnički smjer (matematika i informatika),Bachelor,4,II godina,G1,47,VRC,UTORAK,17:00,19:00,2
+D0075,Komparativna analiza programskih jezika,LV,Adisa Bolić,Kompjuterske nauke,Bachelor,6,III godina,G1,20,426,PETAK,10:00,12:00,2
+D0225,Uvod u kompjutersku geometriju,LV,Adisa Bolić,Kompjuterske nauke,Bachelor,6,III godina,G1,20,426,UTORAK,17:00,19:00,2
+D0028,Analiza i sinteza algoritama,LV,Admir Beširević,Kompjuterske nauke,Bachelor,5,III godina,G1,20,426,SRIJEDA,12:00,14:00,2
+D0177,Razvoj softvera,LV,Vedad Letić,Kompjuterske nauke,Bachelor,5,III godina,G1,20,426,SRIJEDA,08:00,10:00,2
+D0003,Algebarski računarski paketi,LV,Emin Bešo,Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,20,426,CETVRTAK,14:00,16:00,2
+D0117,Metodička praksa iz matematike u srednjoj školi,LV,Daniela Zubović,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,426,UTORAK,08:00,10:00,2
+D0115,Metodička praksa iz matematike u osnovnoj školi,LV,Daniela Zubović,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,426,PONEDJELJAK,11:00,13:00,2
+D0165,Primjena računara u nastavi,LV,Daniela Zubović,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,441,SRIJEDA,08:00,10:00,2
+D0227,Uvod u kompjutersku geometriju,LV,Adisa Bolić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,426,PETAK,12:00,14:00,2
+D0077,Kompjutaciona geometrija,LV,Aleksandar Balašev-Samarski,Kompjuterske nauke,Master,1,I godina,G1,15,426,PONEDJELJAK,15:00,17:00,2
+D0233,Vještačka inteligencija,LV,Kemal Altwlkany,Kompjuterske nauke,Master,2,I godina,G1,15,441,CETVRTAK,12:00,14:00,2
+D0135,Neuronske mreže,LV,Admir Beširević,Kompjuterske nauke,Master,1,I godina,G1,15,426,SRIJEDA,10:00,12:00,2
+D0097,Matematičke metode u obradi i analizi digitalnih slika,LV,Adis Alihodžić,Kompjuterske nauke,Master,2,I godina,G1,15,441,CETVRTAK,10:00,12:00,2
+D0155,Paralelno računanje i optimizacija,LV,Damir Hasić,Kompjuterske nauke,Master,1,I godina,G1,15,RC,CETVRTAK,10:00,12:00,2
+D0079,Kompjuterska grafika,LV,Elmedin Selmanović,Kompjuterske nauke,Master,2,I godina,G1,15,441,UTORAK,14:00,16:00,2
+D0127,Napredni algoritmi i strukture podataka,LV,Aleksandar Balašev-Samarski,Kompjuterske nauke,Master,2,I godina,G1,15,426,PETAK,17:00,19:00,2
+D0139,Numerička analiza,LV,Aleksandra Kostić,Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,11,441,SRIJEDA,15:00,17:00,2
+D0237,Web programiranje,LV,Skopljaković Selma,Nastavnički smjer (matematika),Master,1,I godina,G1,11,441,SRIJEDA,10:00,12:00,2
+D0103,Metodika nastave informatike II,LV,Daniela Zubović,Nastavnički smjer (matematika i informatika),Master,2,I godina,G1,8,RC,SRIJEDA,10:00,12:00,2
+D0081,Kompjuterska vizija,LV,Admir Beširević,Kompjuterske nauke,Master,3,II godina,G1,8,426,CETVRTAK,11:00,13:00,2
+D0111,Metodička praksa iz informatike u osnovnoj školi,LV,Daniela Zubović,Nastavnički smjer (matematika i informatika),Master,2,I godina,G1,8,VRC,PETAK,17:00,19:00,2
+D0101,Metodika nastave informatike I,LV,Daniela Zubović,Nastavnički smjer (matematika i informatika),Bachelor,6,III godina,G1,6,441,PETAK,10:00,12:00,2
+D0137,Neuronske mreže,LV,Admir Beširević,Primijenjena matematika,Master,3,II godina,G1,4,441,CETVRTAK,14:00,16:00,2
+D0121,Metodologija istraživanja u nastavi,LV,Zenan Šabanac,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,RC,UTORAK,11:00,12:00,1
+D0184,Softverski inženjering,LV,Sead Delalić,Kompjuterske nauke,Master,3,II godina,G1,8,VRC,UTORAK,14:00,15:00,1
+D0202,Teorija izračunljivosti,P,Damir Hasić,Kompjuterske nauke | Opći smjer,Bachelor,4,II godina,G1,45,428,CETVRTAK,16:00,19:00,3
+D0094,Linearna algebra I,P,Amela Muratović-Ribić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,45,VRC,PETAK,08:00,11:00,3
+D0096,Linearna algebra II,P,Manuela Muzika Dizdarević,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,45,428,PONEDJELJAK,08:00,11:00,3
+D0095,Linearna algebra II,AV,Džana Drino,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,2,I godina,G1,45,428,PONEDJELJAK,12:00,14:00,2
+D0201,Teorija izračunljivosti,AV,Damir Hasić,Kompjuterske nauke | Opći smjer,Bachelor,4,II godina,G1,45,428,UTORAK,10:00,12:00,2
+D0093,Linearna algebra I,AV,Aleksandar Balašev-Samarski,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,1,I godina,G1,45,428,CETVRTAK,11:00,13:00,2
+D0144,Odabrana poglavlja analize,P,Zenan Šabanac,Kompjuterske nauke,Bachelor,3,II godina,G1,40,432,SRIJEDA,08:00,11:00,3
+D0010,Algebra za kompjuterske nauke,P,Amela Muratović-Ribić,Kompjuterske nauke,Bachelor,4,II godina,G1,40,432,PONEDJELJAK,13:00,16:00,3
+D0194,Strukture podataka i algoritmi,P,Esmir Pilav,Kompjuterske nauke,Bachelor,3,II godina,G1,40,432,PETAK,12:00,15:00,3
+D0143,Odabrana poglavlja analize,AV,Mirza Čvorak,Kompjuterske nauke,Bachelor,3,II godina,G1,40,432,SRIJEDA,13:00,16:00,3
+D0087,Kriptologija,P,Amela Muratović-Ribić,Kompjuterske nauke,Bachelor,3,II godina,G1,40,432,CETVRTAK,14:00,17:00,3
+D0192,Strukture podataka i algoritmi,AV,Admir Beširević,Kompjuterske nauke,Bachelor,3,II godina,G1,40,RC,SRIJEDA,17:00,19:00,2
+D0009,Algebra za kompjuterske nauke,AV,Vedad Letić,Kompjuterske nauke,Bachelor,4,II godina,G1,40,428,SRIJEDA,12:00,14:00,2
+D0154,Operativni sistemi,P,Samir Ribić,Kompjuterske nauke,Bachelor,4,II godina,G1,40,RC,UTORAK,08:00,10:00,2
+D0031,Baze podataka,P,Adis Alihodžić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Opći smjer | Primijenjena matematika,Bachelor,5,III godina,G1,35,419,CETVRTAK,14:00,17:00,3
+D0198,Teorija grafova,P,Damir Hasić,Kompjuterske nauke | Opći smjer | Primijenjena matematika,Bachelor,6,III godina,G1,29,432,PONEDJELJAK,08:00,11:00,3
+D0062,Geometrija I,P,Franjo Šarčević,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,27,428,PETAK,13:00,16:00,3
+D0021,Analiza III,AV,Medina Zubača,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,27,RC,PETAK,16:00,19:00,3
+D0150,Operaciona istraživanja,P,Almasa Odžak,Kompjuterske nauke | Primijenjena matematika,Bachelor,5,III godina,G1,25,RC,PETAK,09:00,12:00,3
+D0030,Baze podataka,AV,Aleksandar Balašev-Samarski,Kompjuterske nauke | Nastavnički smjer (matematika i informatika) | Opći smjer | Primijenjena matematika,Bachelor,5,III godina,G1,35,419,PETAK,13:00,15:00,2
+D0197,Teorija grafova,AV,Adisa Bolić,Kompjuterske nauke | Opći smjer | Primijenjena matematika,Bachelor,6,III godina,G1,29,428,SRIJEDA,10:00,12:00,2
+D0023,Analiza III,P,Almasa Odžak,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,27,428,SRIJEDA,08:00,10:00,2
+D0022,Analiza III,P,Almasa Odžak,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,27,432,SRIJEDA,11:00,13:00,2
+D0061,Geometrija I,AV,Mirza Čvorak,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,27,432,PETAK,17:00,19:00,2
+D0214,Teorija skupova,P,Franjo Šarčević,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,27,432,CETVRTAK,08:00,10:00,2
+D0213,Teorija skupova,AV,Mirza Čvorak,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,27,432,SRIJEDA,16:00,18:00,2
+D0236,Web programiranje,P,Sead Delalić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika),Bachelor,5,III godina,G1,26,428,UTORAK,08:00,10:00,2
+D0043,Dinamički web sistemi,P,Sead Delalić,Kompjuterske nauke | Nastavnički smjer (matematika i informatika),Bachelor,6,III godina,G1,26,432,PONEDJELJAK,11:00,13:00,2
+D0149,Operaciona istraživanja,AV,Emin Bešo,Kompjuterske nauke | Primijenjena matematika,Bachelor,5,III godina,G1,25,432,PETAK,15:00,17:00,2
+D0100,Mašinsko učenje,P,Adis Alihodžić,Kompjuterske nauke | Primijenjena matematika,Bachelor,6,III godina,G1,25,441,PETAK,12:00,14:00,2
+D0084,Kompleksna analiza I,P,Lejla Smajlović,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,5,III godina,G1,22,419,PONEDJELJAK,08:00,11:00,3
+D0083,Kompleksna analiza I,AV,Džana Drino,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,5,III godina,G1,22,428,PONEDJELJAK,14:00,17:00,3
+D0005,Algebra I,AV,Aleksandar Balašev-Samarski,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,5,III godina,G1,22,VRC,SRIJEDA,11:00,14:00,3
+D0006,Algebra I,P,Manuela Muzika Dizdarević,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,5,III godina,G1,22,419,UTORAK,10:00,13:00,3
+D0076,Komparativna analiza programskih jezika,P,Elmedin Selmanović,Kompjuterske nauke,Bachelor,6,III godina,G1,20,441,CETVRTAK,16:00,19:00,3
+D0029,Analiza i sinteza algoritama,P,Esmir Pilav,Kompjuterske nauke,Bachelor,5,III godina,G1,20,426,UTORAK,10:00,13:00,3
+D0152,Operaciona istraživanja,P,Almasa Odžak,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,441,UTORAK,10:00,13:00,3
+D0180,Razvoj softvera,P,Damir Hasić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,419,PONEDJELJAK,14:00,17:00,3
+D0212,Teorija mjere i integracije,P,Zenan Šabanac,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,419,SRIJEDA,12:00,15:00,3
+D0026,Analiza IV,AV,Nacima Memić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,RC,PETAK,13:00,16:00,3
+D0200,Teorija grafova,P,Damir Hasić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,419,SRIJEDA,16:00,19:00,3
+D0027,Analiza IV,P,Nacima Memić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,428,PETAK,16:00,19:00,3
+D0007,Algebra II,AV,Aleksandar Balašev-Samarski,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer,Bachelor,6,III godina,G1,17,428,CETVRTAK,08:00,11:00,3
+D0008,Algebra II,P,Manuela Muzika Dizdarević,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer,Bachelor,6,III godina,G1,17,RC,CETVRTAK,14:00,17:00,3
+D0208,Teorija kodiranja i informacija,P,Amela Muratović-Ribić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Master,3,II godina,G1,17,432,PONEDJELJAK,16:00,19:00,3
+D0072,Integralne transformacije sa primjenama,P,Medina Zubača,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Master,3,II godina,G1,17,432,CETVRTAK,10:00,13:00,3
+D0206,Teorija kodiranja i informacija,P,Amela Muratović-Ribić,Kompjuterske nauke,Master,1,I godina,G1,15,VRC,PETAK,11:00,14:00,3
+D0156,Paralelno računanje i optimizacija,P,Damir Hasić,Kompjuterske nauke,Master,1,I godina,G1,15,419,PONEDJELJAK,11:00,14:00,3
+D0078,Kompjutaciona geometrija,P,Adis Alihodžić,Kompjuterske nauke,Master,1,I godina,G1,15,432,UTORAK,12:00,15:00,3
+D0098,Matematičke metode u obradi i analizi digitalnih slika,P,Adis Alihodžić,Kompjuterske nauke,Master,2,I godina,G1,15,441,SRIJEDA,12:00,15:00,3
+D0088,Kriptologija,P,Amela Muratović-Ribić,Nastavnički smjer (matematika i informatika) | Opći smjer | Primijenjena matematika,Bachelor,5,III godina,G1,15,RC,SRIJEDA,14:00,17:00,3
+D0128,Napredni algoritmi i strukture podataka,P,Esmir Pilav,Kompjuterske nauke,Master,2,I godina,G1,15,441,PONEDJELJAK,12:00,15:00,3
+D0080,Kompjuterska grafika,P,Elmedin Selmanović,Kompjuterske nauke,Master,2,I godina,G1,15,426,PETAK,14:00,17:00,3
+D0136,Neuronske mreže,P,Adis Alihodžić,Kompjuterske nauke,Master,1,I godina,G1,15,441,PETAK,15:00,18:00,3
+D0060,Funkcionalna analiza,P,Nacima Memić,Opći smjer | Primijenjena matematika,Master,2,I godina,G1,14,VRC,SRIJEDA,14:00,17:00,3
+D0204,Teorija izračunljivosti,P,Damir Hasić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,6,III godina,G1,13,428,UTORAK,12:00,15:00,3
+D0106,Metodika nastave matematike I,P,Dina Kamber Hamzić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,6,III godina,G1,13,VRC,PETAK,14:00,17:00,3
+D0158,Parcijalne diferencijalne jednadžbe,P,Senada Kalabušić,Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,11,RC,PONEDJELJAK,14:00,17:00,3
+D0033,Baze podataka,P,Adis Alihodžić,Nastavnički smjer (matematika),Master,1,I godina,G1,11,ABG,SRIJEDA,15:00,18:00,3
+D0044,Diskretna matematika,AV,Franjo Šarčević,Nastavnički smjer (matematika) | Opći smjer,Bachelor,2,I godina,G1,20,426,SRIJEDA,15:00,17:00,2
+D0004,Algebarski računarski paketi,P,Emin Bešo,Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,3,II godina,G1,20,428,SRIJEDA,14:00,16:00,2
+D0045,Diskretna matematika,P,Damir Hasić,Nastavnički smjer (matematika) | Opći smjer,Bachelor,2,I godina,G1,20,428,PETAK,08:00,10:00,2
+D0226,Uvod u kompjutersku geometriju,P,Esmir Pilav,Kompjuterske nauke,Bachelor,6,III godina,G1,20,419,UTORAK,13:00,15:00,2
+D0217,Topologija,AV,Franjo Šarčević,Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,20,RC,SRIJEDA,12:00,14:00,2
+D0218,Topologija,P,Franjo Šarčević,Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,20,RC,UTORAK,12:00,14:00,2
+D0211,Teorija mjere i integracije,AV,Aleksandar Balašev-Samarski,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,426,UTORAK,13:00,15:00,2
+D0228,Uvod u kompjutersku geometriju,P,Esmir Pilav,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,432,UTORAK,15:00,17:00,2
+D0223,Uvod u funkcionalnu analizu,AV,Džana Drino,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,428,PONEDJELJAK,17:00,19:00,2
+D0109,Metodika nastave matematike III,AV,Daniela Zubović,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,419,PETAK,15:00,17:00,2
+D0166,Primjena računara u nastavi,P,Dženan Gušić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,428,PETAK,10:00,12:00,2
+D0224,Uvod u funkcionalnu analizu,P,Nacima Memić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,432,UTORAK,17:00,19:00,2
+D0070,Inkluzivno obrazovanje,P,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,432,PETAK,08:00,10:00,2
+D0110,Metodika nastave matematike III,P,Dina Kamber Hamzić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,432,UTORAK,09:00,11:00,2
+D0108,Metodika nastave matematike II,P,Dina Kamber Hamzić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,428,UTORAK,15:00,17:00,2
+D0199,Teorija grafova,AV,Adisa Bolić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,426,PONEDJELJAK,13:00,15:00,2
+D0107,Metodika nastave matematike II,AV,Džana Drino,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,419,CETVRTAK,08:00,10:00,2
+D0151,Operaciona istraživanja,AV,Emin Bešo,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,428,UTORAK,17:00,19:00,2
+D0220,Uvod u diferencijalnu geometriju,P,Amil Pečenković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer,Bachelor,6,III godina,G1,17,419,UTORAK,15:00,17:00,2
+D0207,Teorija kodiranja i informacija,AV,Amela Muratović-Ribić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Master,3,II godina,G1,17,428,SRIJEDA,17:00,19:00,2
+D0145,Odabrana poglavlja geometrije,AV,Mirza Čvorak,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer,Bachelor,6,III godina,G1,17,419,UTORAK,17:00,19:00,2
+D0219,Uvod u diferencijalnu geometriju,AV,Amil Pečenković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer,Bachelor,6,III godina,G1,17,419,PETAK,17:00,19:00,2
+D0146,Odabrana poglavlja geometrije,P,Manuela Muzika Dizdarević,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer,Bachelor,6,III godina,G1,17,441,PONEDJELJAK,15:00,17:00,2
+D0071,Integralne transformacije sa primjenama,AV,Medina Zubača,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika) | Opći smjer | Primijenjena matematika,Master,3,II godina,G1,17,432,PETAK,10:00,12:00,2
+D0035,Didaktika,P,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,4,II godina,G1,16,RC,PONEDJELJAK,17:00,19:00,2
+D0163,Pedagoška psihologija,AV,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,4,II godina,G1,16,426,SRIJEDA,17:00,19:00,2
+D0164,Pedagoška psihologija,P,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,4,II godina,G1,16,RC,UTORAK,14:00,16:00,2
+D0205,Teorija kodiranja i informacija,AV,Amela Muratović-Ribić,Kompjuterske nauke,Master,1,I godina,G1,15,426,CETVRTAK,17:00,19:00,2
+D0234,Vještačka inteligencija,P,Sead Delalić,Kompjuterske nauke,Master,2,I godina,G1,15,419,PETAK,11:00,13:00,2
+D0059,Funkcionalna analiza,AV,Nacima Memić,Opći smjer | Primijenjena matematika,Master,2,I godina,G1,14,419,PONEDJELJAK,17:00,19:00,2
+D0203,Teorija izračunljivosti,AV,Damir Hasić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,6,III godina,G1,13,441,PONEDJELJAK,17:00,19:00,2
+D0161,Pedagogija,AV,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,5,III godina,G1,13,419,CETVRTAK,10:00,12:00,2
+D0105,Metodika nastave matematike I,AV,Džana Drino,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,6,III godina,G1,13,419,CETVRTAK,17:00,19:00,2
+D0162,Pedagogija,P,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,5,III godina,G1,13,RC,SRIJEDA,08:00,10:00,2
+D0046,Dokimologija,P,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,5,III godina,G1,13,441,UTORAK,16:00,18:00,2
+D0232,Uvod u matematičko modeliranje,P,Medina Zubača,Nastavnički smjer (matematika) | Primijenjena matematika,Bachelor,6,III godina,G1,12,441,SRIJEDA,17:00,19:00,2
+D0032,Baze podataka,AV,Aleksandar Balašev-Samarski,Nastavnički smjer (matematika),Master,1,I godina,G1,11,428,CETVRTAK,14:00,16:00,2
+D0238,Web programiranje,P,Sead Delalić,Nastavnički smjer (matematika),Master,1,I godina,G1,11,VRC,PONEDJELJAK,17:00,19:00,2
+D0176,Projektivna geometrija,P,Manuela Muzika Dizdarević,Nastavnički smjer (matematika),Master,1,I godina,G1,11,RC,CETVRTAK,17:00,19:00,2
+D0157,Parcijalne diferencijalne jednadžbe,AV,Senada Kalabušić,Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,11,VRC,SRIJEDA,17:00,19:00,2
+D0064,Geometrija II,P,Manuela Muzika Dizdarević,Nastavnički smjer (matematika) | Opći smjer,Bachelor,5,III godina,G1,11,426,PONEDJELJAK,17:00,19:00,2
+D0140,Numerička analiza,P,Aleksandra Kostić,Opći smjer | Primijenjena matematika,Bachelor,4,II godina,G1,11,426,UTORAK,15:00,17:00,2
+D0118,Metodička praksa iz matematike u srednjoj školi,P,Dina Kamber Hamzić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,RC,PETAK,12:00,13:00,1
+D0069,Inkluzivno obrazovanje,AV,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,2,I godina,G1,19,419,PETAK,10:00,11:00,1
+D0116,Metodička praksa iz matematike u osnovnoj školi,P,Dina Kamber Hamzić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,RC,PONEDJELJAK,10:00,11:00,1
+D0034,Didaktika,AV,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Bachelor,4,II godina,G1,16,428,SRIJEDA,16:00,17:00,1
+D0231,Uvod u matematičko modeliranje,AV,Medina Zubača,Nastavnički smjer (matematika) | Primijenjena matematika,Bachelor,6,III godina,G1,12,428,PONEDJELJAK,11:00,12:00,1
+D0120,Metodička praksa iz matematike u srednjoj školi II,P,Dina Kamber Hamzić,Nastavnički smjer (matematika),Master,2,I godina,G1,11,VRC,CETVRTAK,18:00,19:00,1
+D0058,Fourierova transformacija i waveleti,P,Zenan Šabanac,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,439,UTORAK,13:00,16:00,3
+D0041,Diferentne jednadžbe i diskretni dinamički sistemi,P,Senada Kalabušić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,439,SRIJEDA,12:00,15:00,3
+D0210,Teorija mjere i integracije,P,Zenan Šabanac,Opći smjer | Primijenjena matematika,Bachelor,6,III godina,G1,9,450,PONEDJELJAK,12:00,15:00,3
+D0090,Kvalitativna analiza diferencijalnih jednadžbi,P,Senada Kalabušić,Primijenjena matematika,Master,2,I godina,G1,8,450,CETVRTAK,14:00,17:00,3
+D0056,Fourierova transformacija i waveleti,P,Zenan Šabanac,Primijenjena matematika,Master,1,I godina,G1,8,411,PETAK,12:00,15:00,3
+D0132,Nelinearna optimizacija,P,Zenan Šabanac,Primijenjena matematika,Master,1,I godina,G1,8,450,PONEDJELJAK,16:00,19:00,3
+D0039,Diferentne jednadžbe i diskretni dinamički sistemi,P,Senada Kalabušić,Primijenjena matematika,Master,1,I godina,G1,8,450,UTORAK,15:00,18:00,3
+D0191,Stohastički procesi,P,Amil Pečenković,Primijenjena matematika,Master,2,I godina,G1,8,412,PONEDJELJAK,13:00,16:00,3
+D0082,Kompjuterska vizija,P,Elmedin Selmanović,Kompjuterske nauke,Master,3,II godina,G1,8,450,SRIJEDA,16:00,19:00,3
+D0160,Parcijalne diferencijalne jednadžbe,P,Senada Kalabušić,Nastavnički smjer (matematika),Bachelor,6,III godina,G1,7,412,UTORAK,08:00,11:00,3
+D0102,Metodika nastave informatike I,P,Emin Bešo,Nastavnički smjer (matematika i informatika),Bachelor,6,III godina,G1,6,411,PONEDJELJAK,08:00,11:00,3
+D0024,Analiza IV,AV,Nacima Memić,Opći smjer,Bachelor,5,III godina,G1,4,439,CETVRTAK,08:00,11:00,3
+D0138,Neuronske mreže,P,Adis Alihodžić,Primijenjena matematika,Master,3,II godina,G1,4,411,UTORAK,08:00,11:00,3
+D0025,Analiza IV,P,Nacima Memić,Opći smjer,Bachelor,5,III godina,G1,4,412,PETAK,08:00,11:00,3
+D0134,Nelinearna optimizacija,P,Zenan Šabanac,Opći smjer,Master,3,II godina,G1,3,439,CETVRTAK,15:00,18:00,3
+D0122,Metodologija istraživanja u nastavi,P,Zenan Šabanac,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,412,PETAK,17:00,19:00,2
+D0068,Historija matematike,P,Franjo Šarčević,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,450,UTORAK,09:00,11:00,2
+D0057,Fourierova transformacija i waveleti,AV,Zenan Šabanac,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,439,UTORAK,16:00,18:00,2
+D0148,Odabrana poglavlja iz pedagogije,P,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,411,PONEDJELJAK,14:00,16:00,2
+D0040,Diferentne jednadžbe i diskretni dinamički sistemi,AV,Senada Kalabušić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,450,PETAK,15:00,17:00,2
+D0222,Uvod u funkcionalnu analizu,P,Nacima Memić,Opći smjer | Primijenjena matematika,Bachelor,6,III godina,G1,9,439,SRIJEDA,08:00,10:00,2
+D0209,Teorija mjere i integracije,AV,Aleksandar Balašev-Samarski,Opći smjer | Primijenjena matematika,Bachelor,6,III godina,G1,9,439,UTORAK,08:00,10:00,2
+D0221,Uvod u funkcionalnu analizu,AV,Džana Drino,Opći smjer | Primijenjena matematika,Bachelor,6,III godina,G1,9,411,PETAK,10:00,12:00,2
+D0065,Geometrija II,AV,Mirza Čvorak,Nastavnički smjer (matematika i informatika),Master,1,I godina,G1,8,411,CETVRTAK,15:00,17:00,2
+D0123,Napredne numeričke metode,AV,Esmir Pilav,Primijenjena matematika,Master,2,I godina,G1,8,450,PETAK,08:00,10:00,2
+D0089,Kvalitativna analiza diferencijalnih jednadžbi,AV,Senada Kalabušić,Primijenjena matematika,Master,2,I godina,G1,8,450,PETAK,10:00,12:00,2
+D0055,Fourierova transformacija i waveleti,AV,Zenan Šabanac,Primijenjena matematika,Master,1,I godina,G1,8,411,PETAK,15:00,17:00,2
+D0183,Softverski inženjering,AV,Sead Delalić,Kompjuterske nauke,Master,3,II godina,G1,8,450,CETVRTAK,17:00,19:00,2
+D0131,Nelinearna optimizacija,AV,Emin Bešo,Primijenjena matematika,Master,1,I godina,G1,8,411,PONEDJELJAK,12:00,14:00,2
+D0124,Napredne numeričke metode,P,Esmir Pilav,Primijenjena matematika,Master,2,I godina,G1,8,439,PONEDJELJAK,08:00,10:00,2
+D0185,Softverski inženjering,P,Sead Delalić,Kompjuterske nauke,Master,3,II godina,G1,8,412,CETVRTAK,15:00,17:00,2
+D0038,Diferentne jednadžbe i diskretni dinamički sistemi,AV,Senada Kalabušić,Primijenjena matematika,Master,1,I godina,G1,8,411,SRIJEDA,15:00,17:00,2
+D0066,Geometrija II,P,Manuela Muzika Dizdarević,Nastavnički smjer (matematika i informatika),Master,1,I godina,G1,8,412,SRIJEDA,14:00,16:00,2
+D0190,Stohastički procesi,AV,Amil Pečenković,Primijenjena matematika,Master,2,I godina,G1,8,450,UTORAK,13:00,15:00,2
+D0104,Metodika nastave informatike II,P,Dženan Gušić,Nastavnički smjer (matematika i informatika),Master,2,I godina,G1,8,450,CETVRTAK,11:00,13:00,2
+D0130,Nastava matematike za nadarene učenike,P,Amil Pečenković,Nastavnički smjer (matematika),Bachelor,5,III godina,G1,7,439,PETAK,11:00,13:00,2
+D0195,Teorija brojeva,AV,Džana Drino,Nastavnički smjer (matematika),Bachelor,6,III godina,G1,7,412,SRIJEDA,12:00,14:00,2
+D0196,Teorija brojeva,P,Dženan Gušić,Nastavnički smjer (matematika),Bachelor,6,III godina,G1,7,439,SRIJEDA,10:00,12:00,2
+D0129,Nastava matematike za nadarene učenike,AV,Amil Pečenković,Nastavnički smjer (matematika),Bachelor,5,III godina,G1,7,412,PETAK,14:00,16:00,2
+D0159,Parcijalne diferencijalne jednadžbe,AV,Senada Kalabušić,Nastavnički smjer (matematika),Bachelor,6,III godina,G1,7,411,SRIJEDA,08:00,10:00,2
+D0053,Finansijska matematika,AV,Senada Kalabušić,Primijenjena matematika,Bachelor,4,II godina,G1,6,412,CETVRTAK,17:00,19:00,2
+D0054,Finansijska matematika,P,Senada Kalabušić,Primijenjena matematika,Bachelor,4,II godina,G1,6,411,PONEDJELJAK,17:00,19:00,2
+D0002,Aktuarska matematika,P,Senada Kalabušić,Primijenjena matematika,Bachelor,5,III godina,G1,5,411,CETVRTAK,08:00,10:00,2
+D0001,Aktuarska matematika,AV,Senada Kalabušić,Primijenjena matematika,Bachelor,5,III godina,G1,5,439,PONEDJELJAK,12:00,14:00,2
+D0189,Statistika II,P,Fikret Čunjalo,Primijenjena matematika,Bachelor,6,III godina,G1,5,450,SRIJEDA,13:00,15:00,2
+D0067,Historija matematike,P,Franjo Šarčević,Opći smjer,Bachelor,5,III godina,G1,4,411,CETVRTAK,11:00,13:00,2
+D0085,Kompleksna analiza II,AV,Lejla Smajlović,Opći smjer,Bachelor,6,III godina,G1,4,411,UTORAK,13:00,15:00,2
+D0086,Kompleksna analiza II,P,Lejla Smajlović,Opći smjer,Bachelor,6,III godina,G1,4,439,UTORAK,10:00,12:00,2
+D0126,Napredne statističke metode,P,Fikret Čunjalo,Primijenjena matematika,Master,3,II godina,G1,4,412,UTORAK,14:00,16:00,2
+D0125,Napredne statističke metode,AV,Fikret Čunjalo,Primijenjena matematika,Master,3,II godina,G1,4,450,UTORAK,11:00,13:00,2
+D0133,Nelinearna optimizacija,AV,Emin Bešo,Opći smjer,Master,3,II godina,G1,3,411,UTORAK,15:00,17:00,2
+D0147,Odabrana poglavlja iz pedagogije,AV,Hasnija Nurković,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,3,II godina,G1,10,419,SRIJEDA,15:00,16:00,1
+D0114,Metodička praksa iz informatike u srednjoj školi,P,Emin Bešo,Nastavnički smjer (matematika i informatika),Master,2,I godina,G1,8,450,CETVRTAK,09:00,10:00,1
+D0112,Metodička praksa iz informatike u osnovnoj školi,P,Emin Bešo,Nastavnički smjer (matematika i informatika),Master,2,I godina,G1,8,450,UTORAK,08:00,09:00,1
+D0188,Statistika II,AV,Fikret Čunjalo,Primijenjena matematika,Bachelor,6,III godina,G1,5,426,PETAK,09:00,10:00,1
+D0063,Geometrija II,AV,Mirza Čvorak,Nastavnički smjer (matematika) | Opći smjer,Bachelor,5,III godina,G1,11,419,UTORAK,08:00,10:00,2
+D0178,Razvoj softvera,P,Damir Hasić,Kompjuterske nauke,Bachelor,5,III godina,G1,20,RC,UTORAK,16:00,19:00,3
+D0175,Projektivna geometrija,AV,Mirza Čvorak,Nastavnički smjer (matematika),Master,1,I godina,G1,11,441,PONEDJELJAK,08:00,10:00,2
+D0179,Razvoj softvera,LV,Vedad Letić,Nastavnički smjer (matematika i informatika) | Nastavnički smjer (matematika),Master,1,I godina,G1,19,RC,CETVRTAK,12:00,14:00,2
