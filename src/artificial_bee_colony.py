@@ -78,7 +78,6 @@ def nadji_najbolji(populacija):
 
 
 def izaberi_izvor(populacija):
-    # Manji fitness je bolji, pa bolji rasporedi dobijaju vecu sansu.
     tezine = []
     suma = 0.0
 
